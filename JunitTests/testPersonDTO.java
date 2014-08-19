@@ -16,7 +16,7 @@ public class testPersonDTO {
 	
 	@Test
 	public void test() {
-		fail("Not yet implemented");
+	
 	}
 
 
