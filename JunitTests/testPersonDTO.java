@@ -9,10 +9,6 @@ import org.junit.Test;
 
 public class testPersonDTO {
 
-	@Before
-	public void testBefore()throws Exception {
-		System.out.println("Before test");
-	}
 	
 	@Test
 	public void test() {
